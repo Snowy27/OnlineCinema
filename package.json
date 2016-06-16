@@ -1,0 +1,22 @@
+{
+  "name": "online_cinema",
+  "version": "1.0.0",
+  "description": "Project for online cinema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Snowy27/OnlineCinema.git"
+  },
+  "author": "Mike Dolt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Snowy27/OnlineCinema/issues"
+  },
+  "homepage": "https://github.com/Snowy27/OnlineCinema#readme",
+  "dependencies": {
+    "hapi": "^13.4.1"
+  }
+}
